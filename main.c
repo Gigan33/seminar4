@@ -1,4 +1,5 @@
-#include "lab4.c"
+#include "lab4.h"
+
 
 
 int main(){
